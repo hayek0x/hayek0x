@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+hayek;i'm+have+14+years+old;I+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <p align="center">
 	<img src="https://lanyard-profile-readme.vercel.app/api/973588723809783928?hideTimestamp=true&hideBadges=true"/>
 	<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+hayek;i'm+have+14+years+old;I+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)"/>
