@@ -1,6 +1,6 @@
 
 <div align="center">  
-  <img width="40%" height="300px" src="https://media.discordapp.net/attachments/1044407039163646024/1045050225485692948/7adfbaa5d754e6a7d2b060323ad6abc0_2.jpeg?width=480&height=480" />
+  <img width="35%" height="300px" src="https://media.discordapp.net/attachments/1044407039163646024/1045050225485692948/7adfbaa5d754e6a7d2b060323ad6abc0_2.jpeg?width=480&height=480" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+hayek;i'm+have+14+years+old;I+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
