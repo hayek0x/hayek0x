@@ -1,10 +1,4 @@
-
-<a href="https://skulldev.ga/#developers">
-	<img src="https://media.discordapp.net/attachments/963442916687237150/1002706806642065498/unknown.png?width=946&height=464">
-</a>
-
 <p align="center">
-	[![Discord Presence](https://lanyard.cnrad.dev/api/973588723809783928)](https://discord.com/users/973588723809783928)
 	<img src="https://lanyard-profile-readme.vercel.app/api/973588723809783928?hideTimestamp=true&hideBadges=true"/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hayek0x&theme=dark&hide_border=true">
 	<br>
@@ -14,10 +8,6 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+hayek;i'm+have+14+years+old;I+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ntimacy&layout=compact&hide_border=true&theme=synthwave" />
-</div>
 
 <div align="center">  
 <a href="https://discord.com/users/818675044208082945" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"</a>
