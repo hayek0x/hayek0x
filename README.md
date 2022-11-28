@@ -1,7 +1,6 @@
 # KYAN PROFILE <img src="https://media.discordapp.net/attachments/1036829477939982447/1045723018170736650/1045022754665152532.gif" width="50">
 <p align="center">
 	<img src="https://lanyard-profile-readme.vercel.app/api/973588723809783928?hideTimestamp=true&hideBadges=False"/>
-	<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+hayek;i'm+have+14+years+old;I+from+São+Paulo,+SP;Be+Welcome!+:%29"/>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=hayek0x&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
